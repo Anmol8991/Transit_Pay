@@ -1,6 +1,6 @@
 # HackRU23_Winner-Transit_Pay
 
-[Summary on DevPost](https://devpost.com/software/transitpay#updates)
+[Summary on DevPost](https://devpost.com/software/transitpay#updates) <br />
 Imagine a world where you don't have to manually pay for tickets!
 <br />
 <br />
