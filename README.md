@@ -1,4 +1,6 @@
 # HackRU23_Winner-Transit_Pay
+
+[Summary on DevPost](https://devpost.com/software/transitpay#updates)
 Imagine a world where you don't have to manually pay for tickets!
 <br />
 <br />
@@ -11,7 +13,6 @@ TransitPay is an application that tracks your journey and automatically charges 
 
 <br />
 <br />
-
 
 **Live tracking for simulated train entrance:**
 <br />Up and down count keeps track of people entering and exiting the train.
